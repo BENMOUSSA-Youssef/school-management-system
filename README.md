@@ -10,7 +10,6 @@ A comprehensive web-based school management system built with Laravel, designed 
 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Screenshots](#-screenshots)
 - [Installation](#-installation)
 - [Configuration](#-configuration)
 - [Usage](#-usage)
@@ -53,9 +52,6 @@ A comprehensive web-based school management system built with Laravel, designed 
 - **Authentication**: Laravel Authentication
 - **Architecture**: MVC (Model-View-Controller)
 
-## 📸 Screenshots
-
-> _Screenshots will be added here_
 
 ## 🚀 Installation
 
