@@ -298,16 +298,13 @@ This project is open-sourced software licensed under the [MIT license](https://o
 
 ## 👤 Author
 
-**Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@BENMOUSSA-Youssef](https://github.com/BENMOUSSA-Youssef)
+- Email: bnmussef@gmail.com
 
 ## 🙏 Acknowledgments
 
 - Built with [Laravel](https://laravel.com)
-- Thanks to all contributors who have helped improve this project
-
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
